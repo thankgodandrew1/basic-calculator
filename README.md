@@ -1,12 +1,12 @@
 # Overview
 
-As a software developer aiming to expand my skills in Kotlin, this basic calculator project serves as a practical demonstration of the language. 
-The software is a simple calculator application implemented in Kotlin, it's functionalities are centered on performing fundamental arithmetic operations and trigonometric functions.
+As a software developer aiming to expand my skills in Kotlin, this basic calculator project is a practical demonstration of the language. 
+The software is a simple calculator application implemented in Kotlin, its functionalities are centered on performing fundamental arithmetic operations and trigonometric functions.
 
 ## Purpose
 
-The purpose of this project is to deepen my understanding of Kotlin's basic syntax, OOP concepts, and standard library functions. 
-Working on this basic calculator has helped solidified my knowledge on how to set up a Kotlin development environment and deepened
+This project aims to deepen my understanding of Kotlin's basic syntax, OOP concepts, and standard library functions. 
+Working on this basic calculator has helped solidify my knowledge of how to set up a Kotlin development environment and deepened
 my knowledge of Kotlin's capabilities in handling mathematical computations efficiently.
 
 ## JDK (Java Development Kit)
@@ -41,4 +41,4 @@ In the future, here are some enhancements and fixes I plan to make :
 
 - Implement GUI for a more interactive user experience.
 - Add support for more advanced mathematical functions.
-- Improve error handing for users input.
+- Improve error handling for user input.
