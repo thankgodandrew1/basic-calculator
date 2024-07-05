@@ -33,7 +33,7 @@ Watch the software demo and code walkthrough on YouTube:
 
 - [Kotlin Programming Language](https://kotlinlang.org/)
 - [Official Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [Sin - Kotlin Programming](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.math/sin.html) - for troubleshooting and code snippets
+- [Sin - Kotlin Programming](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.math/sin.html) 
 - [Basics of kotlin Project Structure](https://kotlinlang.org/docs/multiplatform-discover-project.html#targets)
 # Future Work
 
